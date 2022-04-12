@@ -32,6 +32,6 @@
     "url": "https://github.com/alkihis/twitter-api-v2-plugin-token-refresher/issues"
   },
   "peerDependencies": {
-    "twitter-api-v2": "file:../../twitter-api-v2"
+    "twitter-api-v2": "^1.12.0"
   }
 }
